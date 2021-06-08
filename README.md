@@ -10,8 +10,7 @@
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <div class="tenor-gif-embed" data-postid="21603198" data-share-method="host" data-width="100%" data-aspect-ratio="0.9578313253012049"><a href="https://tenor.com/view/bennett-%e3%83%99%e3%83%8d%e3%83%83%e3%83%88-gif-21603198">Bennett ベネット GIF</a> from <a href="https://tenor.com/search/bennett-gifs">Bennett GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+  <img align="right" alt="bennett.gif" src="https://tenor.com/view/bennett-%e3%83%99%e3%83%8d%e3%83%83%e3%83%88-gif-21603198">
   
   ##
  
