@@ -3,9 +3,9 @@
   <a href="https://github.com/rodrigopaivadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaivadev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaivadev&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-</div>
+</div><br>
  
-# What I know...
+ # What I know...
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,8 +13,6 @@
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Klee-gif" height="150" width="200" src="https://media.giphy.com/media/fWtJrVD5I2WIJRmfAw/giphy.gif">
- 
-  ## 
 </div><br>
  
  # Contact me 
