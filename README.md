@@ -1,8 +1,8 @@
 ## Hi! I'm Rodrigo Paiva 
  <div>
   <a href="https://github.com/rodrigopaivadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaivadev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaivadev&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaivadev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaivadev&layout=compact&langs_count=16&theme=chartreuse-dark&hide_border=true"/>
 </div><br>
  
  # What I know...
