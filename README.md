@@ -11,9 +11,9 @@
  
  # What I know...
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rodrigo-HTML" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+  <img align="center" alt="Rodrigo-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png">
+  <img align="center" alt="Rodrigo-Js" height="46" width="46" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
   <img align="right" alt="Klee-gif" height="150" width="200" src="https://media.giphy.com/media/fWtJrVD5I2WIJRmfAw/giphy.gif">
 </div><br>
  
