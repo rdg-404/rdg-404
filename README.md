@@ -1,5 +1,5 @@
 
-### Hi, my name is Rodrigo, i'm from Brazil. A Game Technologist and FrontEnd Development student since 2017, but I found out that I love is building websites in 2021.
+### Hi, my name is Rodrigo, i'm from Brazil 🇧🇷. A Game Technologist and FrontEnd Development student since 2017, but I found out that I love is building websites in 2021.
 ### I'm already fluent in HTML 5 and CSS 3 and i'm getting better every day in JavaScript, to start seeing the world of Frameworks and Libraries.
 
 
