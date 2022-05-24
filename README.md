@@ -3,6 +3,9 @@
 ### I'm already fluent in HTML 5 and CSS 3 and i'm getting better every day in JavaScript, to start seeing the world of Frameworks and Libraries.
 
 
+# _#NeverStopLearning_
+
+
  <div>
   <a href="https://github.com/rodrigopaivadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaivadev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
