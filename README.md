@@ -20,11 +20,11 @@
   
 </div><br>
  
- # Contact me 
-<div><br>
-  <a href ="mailto: rodriigopaiiva.rp19@gmail.com"><img src="https://img.shields.io/badge/-rodrigopaiva0502@gmail.com-%23EA4335?style=flat-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-paiva-6017441ab" target="_blank"><img src="https://img.shields.io/badge/-Rodrigo Paiva-%230077B5?style=flat-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://api.whatsapp.com/send?phone=5511989832722" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<h1 align="center">Entre em contato comigo 	:incoming_envelope:</h1>
+<div align="center"><br>
+  <a href ="mailto: rodriigopaiiva.rp19@gmail.com"><img src="https://img.shields.io/badge/Email-neongreen?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-paiva-6017441ab" target="_blank"><img src="https://img.shields.io/badge/LindedIn-neongreen?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5511989832722" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-neongreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
   
 </div>
