@@ -2,6 +2,7 @@
 <h1 align="center">Olá, eu sou Rodrigo</h1>
 <h2 align="center" >Desenvolvedor Front End :desktop_computer:</h2>
 <h3 align="right">#NeverStopLearning :rocket:</h3>
+<img align="right" alt="GitHub watchers" src="https://img.shields.io/github/watchers/rodrigopaivadev/RodrigoPaivaDev?color=neongreen&label=Visitantes&style=for-the-badge"><br><br><br><br><br><br>
 
 
 
@@ -11,7 +12,7 @@
   <a href="https://github.com/rodrigopaivadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaivadev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaivadev&layout=compact&langs_count=16&theme=chartreuse-dark&hide_border=true"/>
-</div><br>
+</div><br><br><br><br>
  
 <h1 align="center">Linguagens e ferramentas :gear:</h1>
 <div align="center"><br>
@@ -23,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   
-</div><br>
+</div><br><br><br><br><br>
  
 <h1 align="center">Entre em contato comigo 	:incoming_envelope:</h1>
 <div align="center"><br>
