@@ -16,13 +16,14 @@
  
 <h1 align="center">Linguagens e ferramentas :gear:</h1>
 <div align="center"><br>
-  <img align="center" alt="Rodrigo-HTML" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
-  <img align="center" alt="Rodrigo-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png">
-  <img align="center" alt="Rodrigo-Js" height="46" width="46" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  <img  alt="HTML" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+  <img  alt="CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png">
+  <img  alt="Js" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
+  <img  alt="React" height="50" width="50" src="https://img.icons8.com/plasticine/100/000000/react.png">
+  <img  alt="MySQL" height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+  <img  alt="NodeJS" height="50" width="50" src="https://img.icons8.com/color/96/228BE6/nodejs.png">
+  <img  alt="Git" height="50" width="50" src="https://img.icons8.com/color/96/000000/git.png"/>
+ 
   
 </div><br><br><br><br><br>
  
