@@ -6,6 +6,7 @@
 
 
 
+
  <div align="center">
   <a href="https://github.com/rodrigopaivadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaivadev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -17,8 +18,10 @@
   <img align="center" alt="Rodrigo-HTML" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
   <img align="center" alt="Rodrigo-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png">
   <img align="center" alt="Rodrigo-Js" height="46" width="46" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   
 </div><br>
  
@@ -27,6 +30,7 @@
   <a href ="mailto: rodriigopaiiva.rp19@gmail.com"><img src="https://img.shields.io/badge/Email-neongreen?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-paiva-6017441ab" target="_blank"><img src="https://img.shields.io/badge/LindedIn-neongreen?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://api.whatsapp.com/send?phone=5511989832722" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-neongreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 
  
   
 </div>
