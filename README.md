@@ -1,8 +1,7 @@
 
 <h1 align="center">Olá, eu sou Rodrigo</h1>
 <h2 align="center" ><img src="https://img.icons8.com/material-outlined/24/40C057/source-code.png"> Desenvolvedor Front End <img src="https://img.icons8.com/material-outlined/24/40C057/source-code.png"> </h2>
-<h3 align="right">#NeverStopLearning <img src="https://img.icons8.com/windows/32/40C057/launchpad.png" height="25" width="25"></h3>
-<img align="right" alt="GitHub watchers" src="https://img.shields.io/github/watchers/rodrigopaivadev/RodrigoPaivaDev?color=neongreen&label=Visitantes&style=for-the-badge"><br><br><br><br><br><br>
+<h3 align="right">#NeverStopLearning <img src="https://img.icons8.com/windows/32/40C057/launchpad.png" height="25" width="25"></h3><br><br><br><br><br><br>
 
 
 
