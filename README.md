@@ -1,12 +1,12 @@
 
-### Hi, my name is Rodrigo, i'm from Brazil 🇧🇷. A Game Technologist and FrontEnd Development student since 2017, but I found out that I love is building websites in 2021.
-### I'm already fluent in HTML 5 and CSS 3 and i'm getting better every day in JavaScript, to start seeing the world of Frameworks and Libraries.
+<h1 align="center">Olá, eu sou Rodrigo</h1>
+<h2 align="center" >Desenvolvedor Front End :desktop_computer:</h2>
+<h3 align="right">#NeverStopLearning :rocket:</h3>
 
 
-# _#NeverStopLearning_
 
 
- <div>
+ <div align="center">
   <a href="https://github.com/rodrigopaivadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaivadev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaivadev&layout=compact&langs_count=16&theme=chartreuse-dark&hide_border=true"/>
