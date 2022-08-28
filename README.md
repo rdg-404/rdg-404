@@ -12,11 +12,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopaivadev&layout=compact&langs_count=16&theme=chartreuse-dark&hide_border=true"/>
 </div><br>
  
- # What I know...
-<div style="display: inline_block"><br>
+<h1 align="center">Linguagens e ferramentas :gear:</h1>
+<div align="center"><br>
   <img align="center" alt="Rodrigo-HTML" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
   <img align="center" alt="Rodrigo-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png">
   <img align="center" alt="Rodrigo-Js" height="46" width="46" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   
 </div><br>
  
