@@ -21,7 +21,7 @@
   <img  alt="Js" height="50" width="50" src="https://img.icons8.com/ios/100/40C057/javascript--v1.png">
   <img  alt="React" height="50" width="50" src="https://img.icons8.com/ios/100/40C057/react-native--v1.png">
   <img  alt="MySQL" height="50" width="50" src="https://img.icons8.com/ios-filled/100/40C057/mysql-logo.png">
-  <img  alt="NodeJS" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/node-js.png">
+  <img  alt="NodeJS" height="50" width="50" src="https://img.icons8.com/windows/64/40C057/node-js.png">
   <img  alt="Git" height="50" width="50" src="https://img.icons8.com/windows/96/40C057/git.png">
   <img  alt="Linux" height="50" width="50" src="https://img.icons8.com/ios-filled/100/40C057/linux.png">
   <img  alt="TypeScript"  height="50" width="50" src="https://img.icons8.com/ios/100/40C057/typescript.png">
