@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá, eu sou Rodrigo</h1>
-<h2 align="center" >Desenvolvedor Front End :desktop_computer:</h2>
+<h2 align="center" ><img src="https://img.icons8.com/material-outlined/24/40C057/source-code.png"> Desenvolvedor Front End <img src="https://img.icons8.com/material-outlined/24/40C057/source-code.png"> </h2>
 <h3 align="right">#NeverStopLearning :rocket:</h3>
 <img align="right" alt="GitHub watchers" src="https://img.shields.io/github/watchers/rodrigopaivadev/RodrigoPaivaDev?color=neongreen&label=Visitantes&style=for-the-badge"><br><br><br><br><br><br>
 
@@ -16,13 +16,14 @@
  
 <h1 align="center">Linguagens e ferramentas :gear:</h1>
 <div align="center"><br>
-  <img  alt="HTML" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
-  <img  alt="CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png">
-  <img  alt="Js" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
-  <img  alt="React" height="50" width="50" src="https://img.icons8.com/plasticine/100/000000/react.png">
-  <img  alt="MySQL" height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-  <img  alt="NodeJS" height="50" width="50" src="https://img.icons8.com/color/96/228BE6/nodejs.png">
-  <img  alt="Git" height="50" width="50" src="https://img.icons8.com/color/96/000000/git.png"/>
+  <img  alt="HTML" height="50" width="50" src="https://img.icons8.com/material-outlined/96/40C057/html-5.png">
+  <img  alt="CSS" height="55" width="55" src="https://img.icons8.com/ios/100/40C057/css3.png">
+  <img  alt="Js" height="50" width="50" src="https://img.icons8.com/ios/100/40C057/javascript--v1.png">
+  <img  alt="React" height="50" width="50" src="https://img.icons8.com/ios/100/40C057/react-native--v1.png">
+  <img  alt="MySQL" height="50" width="50" src="https://img.icons8.com/ios-filled/100/40C057/mysql-logo.png">
+  <img  alt="NodeJS" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/node-js.png">
+  <img  alt="Git" height="50" width="50" src="https://img.icons8.com/windows/96/40C057/git.png">
+  <img  alt="Linux" height="50" width="50" src="https://img.icons8.com/ios-filled/100/40C057/linux.png">
  
   
 </div><br><br><br><br><br>
