@@ -35,6 +35,7 @@
   <a href="https://www.linkedin.com/in/rodrigo-paiva-6017441ab" target="_blank"><img src="https://img.shields.io/badge/LindedIn-neongreen?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://api.whatsapp.com/send?phone=5511989832722" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-neongreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rdg__404/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-neongreen?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/-Discord-neongreen?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
  
   
