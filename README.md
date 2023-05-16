@@ -1,6 +1,7 @@
 
 <h1 align="center">Olá, eu sou Rodrigo</h1>
-<h2 align="center" ><img src="https://img.icons8.com/material-outlined/24/40C057/source-code.png"> Desenvolvedor Front End <br><br> Se especializando em ReactJS<img src="https://img.icons8.com/material-outlined/24/40C057/source-code.png"> </h2>
+<h2 align="center" ><img src="https://img.icons8.com/material-outlined/24/40C057/source-code.png"> Desenvolvedor Front End <img src="https://img.icons8.com/material-outlined/24/40C057/source-code.png"> </h2>
+<h2 align="center">Se especializando em ReactJS</h2>
 <h3 align="right">#NeverStopLearning <img src="https://img.icons8.com/windows/32/40C057/launchpad.png" height="25" width="25"></h3>
 <h3 align="right">O fluxo do tempo nunca para, então, nunca pare de evoluir...</h3><br><br><br><br><br><br>
 
