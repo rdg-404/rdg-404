@@ -27,6 +27,7 @@
   <img  alt="TypeScript"  height="50" width="50" src="https://img.icons8.com/ios/100/40C057/typescript.png">
   <img  alt="SASS" height="50" width="50" src="https://img.icons8.com/material-outlined/96/40C057/sass.png"/>
   <img alt="Unity" height="50" width="50" src="https://img.icons8.com/ios-filled/100/40C057/unity.png"/>
+  <img alt="Unity" height="50" width="50" src="https://img.icons8.com/material-outlined/100/40C057/tailwind_css.png"/>
  
   
 </div><br><br><br><br><br>
