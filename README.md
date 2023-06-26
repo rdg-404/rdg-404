@@ -8,11 +8,11 @@
 
 
 
-<!--  <div align="center">
+<div align="center">
   <a href="https://github.com/rdg-404">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdg-404&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdg-404&layout=compact&langs_count=16&theme=chartreuse-dark&hide_border=true"/>
-</div><br><br><br><br> -->
+</div><br><br><br><br>
  
 <h1 align="center">Linguagens e ferramentas <img height="25" width="25" src="https://img.icons8.com/ios-filled/50/40C057/internet.png"></h1>
 <div align="center"><br>
