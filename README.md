@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/rdg-404">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdg-404&show_icons=true&theme=aura&bg_color=0d1117&title_color=00875f&text_color=00875f&icon_color=fff&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdg-404&layout=compact&bg_color=0d1117&title_color=00875f&text_color=00875f&langs_count=16&theme=aura&hide_border=true"/>    
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rdg-404&show_icons=true&theme=aura&bg_color=0d1117&title_color=00875f&text_color=00875f&icon_color=fff&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdg-404&layout=compact&bg_color=0d1117&title_color=00875f&text_color=00875f&langs_count=16&theme=aura&hide_border=true"/>    
 </div><br><br><br><br>
 
  
