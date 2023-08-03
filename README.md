@@ -34,11 +34,11 @@
  
 <h1 align="center">Entre em contato comigo 	<img height="25" width="25" src="https://img.icons8.com/sf-regular/48/40C057/messaging-.png"></h1>
 <div align="center"><br>
-  <a href ="mailto: rodriigopaiiva.rp19@gmail.com"><img src="https://img.shields.io/badge/Email-neongreen?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-paiva-6017441ab" target="_blank"><img src="https://img.shields.io/badge/LindedIn-neongreen?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://api.whatsapp.com/send?phone=5511989832722" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-neongreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rdg__404/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-neongreen?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/strange#9230" target="_blank"><img src="https://img.shields.io/badge/-Discord-neongreen?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href ="mailto: rodriigopaiiva.rp19@gmail.com"><img src="https://img.shields.io/badge/Email-40C057?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-paiva-6017441ab" target="_blank"><img src="https://img.shields.io/badge/LindedIn-40C057?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5511989832722" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-40C057?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rdg__404/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-40C057?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/strange#9230" target="_blank"><img src="https://img.shields.io/badge/-Discord-40C057?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
  
   
