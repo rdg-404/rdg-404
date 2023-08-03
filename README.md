@@ -2,7 +2,7 @@
 <h2 align="center" ><img src="https://img.icons8.com/material-outlined/24/00875f/source-code.png"> Desenvolvedor Front End | Desenvolvedor de Jogos <img src="https://img.icons8.com/material-outlined/24/00875f/source-code.png"> </h2>
 <h2 align="center">Se especializando em ReactJS</h2>
 <h3 align="right">#NeverStopLearning <img src="https://img.icons8.com/windows/32/00875f/launchpad.png" height="25" width="25"></h3>
-<h3 align="right">O fluxo do tempo nunca para, então, nunca pare de evoluir...</h3><br><br><br><br><br><br>
+
 
 
 
